@@ -1,2 +1,4 @@
 Olá, meu nome é Juan Pablo!
 Hello, word!
+Está bacana a aula
+Estou gostando de aprender git e github
